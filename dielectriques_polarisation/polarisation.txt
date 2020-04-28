@@ -1,0 +1,7 @@
+Dans le 1 il faut introduire la polsarisation d'un point de vue quantitatif.
+Donc il faut introduire Ex et Ey avec un dephasage pour ensuite faire 
+apparaitre l'equation d'une ellipse.
+
+Le reste se traite facilement.
+
+Voir MP/MP* dunod 2014 pour low de malus et polariseur.

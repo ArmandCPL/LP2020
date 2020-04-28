@@ -1,0 +1,10 @@
+filtrage en electronique:
+
+on peut regarder le dunod PCSI (2013) p. 401-456.
+
+On peut aussi regarder le physique tout-en-un MPSI-PCSI-PTSI (2002-2003) p. 439-465.
+
+On peut parler succintement de la modulation vers la fin pour montrer un exemple concret
+d'utilite du filtrage. Nottament si on a traite le filtre passe bas.
+
+images possibles, tout-en-un MPSI-PCSI-PTSI pour montrer l'effet d'un filtre passe bas sur un craineau.
