@@ -1,0 +1,2 @@
+dans spyder aller sur :
+outils - preferences - console - graphiques - backend doit être mis en automatic et pas sur ligne.
