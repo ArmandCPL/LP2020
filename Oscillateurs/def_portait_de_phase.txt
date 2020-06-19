@@ -1,0 +1,11 @@
+portrait de phase:
+
+au ours d'une écolution possible d'un système dynamique, representation
+graphique des variations d'une variable dynamique en fonction
+de sa dérivée temporelle ou de son moment conjuguée
+
+moment conjugué: (canonical moment)
+
+provient du formalisme lagrangien pi = dL/d(q_point)i
+
+p et q sont conjuguées, coordonées généralisées.
